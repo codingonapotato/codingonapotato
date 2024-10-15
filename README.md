@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Profile!
 
 ## 😁 About Me:
-🎓 I am a fourth-year student at UBC pursuing a combined major in Computer Science + Microbiology & Immunology.
+🎓 I am a fifth-year student at UBC pursuing a combined major in Computer Science + Microbiology & Immunology.
 
 ## 💻 Technical Skills:
-Language/Frameworks: Python, React, C#, Java, C/C++, JavaScript, HTML, R
+Language/Frameworks: Python, React, C#, Java, C, C++, JavaScript, HTML, R
 
-Tools/Environments: VSCode, Git/GitHub, WSL, Docker, Postman, GNU Bash, ADB
+Tools/Environments: VSCode, git, wsl, Docker, Postman, bash, adb
 
-Testing: JUnit5, VS Code debugger, GNU debugger, Valgrind
+Testing: JUnit5, XUnit, gdb, valgrind
 
 ## 🌱 Projects in Development:
 ### 🩸 UBC Blood for Life Volunteer Website:
 - I am a volunteer developer working with a team of 4 other student developers + a tech lead to create a volunteer management website for the UBC Blood for Life club. This club works with Canadian blood services to raise awareness of stem-cell and blood donations
 
-### 💻 [Desktop Activity Tracker](https://github.com/codingonapotato/desktop-time-tracker):
+### 💻 [Illuminactivity](https://github.com/codingonapotato/illuminactivity):
 - This is a personal project where I am building an application to automate time tracking for applications of a user's choice to keep the user informed on their usage habits.
   
 ## 🏅 Completed Projects:
