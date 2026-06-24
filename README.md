@@ -16,21 +16,23 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Profile!
 
 ## 😁 About Me:
-🎓 I am a fifth-year student at UBC pursuing a combined major in Computer Science + Microbiology & Immunology.
+🎓 I am a final-year student at UBC pursuing a combined major in Computer Science + Microbiology & Immunology.
 
 ## 💻 Technical Skills:
-Language/Frameworks: Python, React, C#, Java, C, C++, JavaScript, HTML, R
+Languages: Java, TypeScript, JavaScript, Python, C, C++, HTML/CSS, SQL, Bash, R
 
-Tools/Environments: VSCode, git, wsl, Docker, Postman, bash, adb
+Frameworks & Libraries: React, Redux, ExpressJS, Flask, SAPUI5, PyQt6, Selenium
 
-Testing: JUnit5, XUnit, gdb, valgrind
+Cloud & Databases: Docker, Jenkins, Node.js, MongoDB, PostgreSQL
+
+Developer Tools: Git, Maven, Github Copilot, Postman, Wireshark, Ghidra, WSL, GDB, Valgrind, ADB
 
 ## 🌱 Projects in Development:
-### 🩸 UBC Blood for Life Volunteer Website:
-- I am a volunteer developer working with a team of 4 other student developers + a tech lead to create a volunteer management website for the UBC Blood for Life club. This club works with Canadian blood services to raise awareness of stem-cell and blood donations
-
 ### 💻 [Illuminactivity](https://github.com/codingonapotato/illuminactivity):
-- This is a personal project where I am building an application to automate time tracking for applications of a user's choice to keep the user informed on their usage habits.
+- This is a personal project where I am building a Java application to automate time tracking for applications of a user's choice to keep the user informed on their usage habits.
+
+### 🫂 Pullup:
+- I am a full-stack developer on a 5 person team working to bring the web platform "Pullup" to life. The mission of this project is to create a minimize friction that goes into event creation/planning by friends for friends!
   
 ## 🏅 Completed Projects:
 ### [Toxicology Project](https://github.com/codingonapotato/ToxicologyProject)
